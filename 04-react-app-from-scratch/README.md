@@ -13,6 +13,16 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
+## React Tutorial with game: Tic-Tac-Toe
+Check inside `04-react-app-from-scratch` the sub-project `01-basic-tic-tac-toe-tutorial`.
+It contains a fully working Tic-Tac-Toe Game from the [React-Tutorial](https://reactjs.org/tutorial/tutorial.html#declaring-a-winner).
+
+-   There are a couple of files with the form `<number>-index.js`.
+    - Every `<number>-index.js` represents a (sub-)chapter of the React-Tutorial.
+    - You can replace these `<number>-index.js` to `index.js` to get the **coding-state** of the sub-chapter
+    and to see the result of the sub-chapter.
+-   If you have changed it to `index.js`, you can start it with `npm start`
+-   Please note: `Final-index.js` represents the **latest version**
 
 ### Setup (Optional)
 You can find a documentation on this [blog-page](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658).
