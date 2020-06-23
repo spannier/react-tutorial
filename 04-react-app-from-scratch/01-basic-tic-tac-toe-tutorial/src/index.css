@@ -48,3 +48,17 @@ ol, ul {
 .game-info {
     margin-left: 20px;
 }
+
+/* Added from Stephan for Addotional stuff */
+.coordinate-col, .coordinate-row {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 1px 10px auto;
+}
+.coordinate-col {
+    padding-left: 34px;
+}
+
+.coordinate-row {
+    float:left;
+}
