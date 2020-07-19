@@ -3,7 +3,6 @@ This example shows, how to create a React-App from scratch.
 
 ## Create React App
 Create React apps with no build configuration.
-- [Creating an App](#creating-an-app) – How to create a new app.
 - [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App
 
 ## Quick Overview
